@@ -1,0 +1,6 @@
+./src/env.js
+./dist/env.js
+node_modules/
+test/env.js
+.DS_Store
+npm-debug.log
